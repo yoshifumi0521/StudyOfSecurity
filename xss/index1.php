@@ -19,17 +19,6 @@
       <input type="submit" value="検索">
    </form>
 
-	
-	
-	<script>
-	
-		
-		
-		
-		
-
-
-	</script>
 
 </body>
 </html>
